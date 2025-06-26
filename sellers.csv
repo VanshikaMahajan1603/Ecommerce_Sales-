@@ -1,0 +1,501 @@
+seller_id,zip_code,city,state
+1,52055,Arianamouth,NJ
+2,39618,North Joyhaven,ID
+3,91787,Lake Jamieberg,DC
+4,60083,Taylorberg,CA
+5,65163,Courtneytown,AK
+6,84530,Hansonborough,OK
+7,16414,North Aaronville,NH
+8,49509,East Jamesfort,TX
+9,81500,Port Williamfurt,NV
+10,13967,North Kevinfort,WY
+11,04339,Port Jimmy,NH
+12,29863,Lorrainemouth,SD
+13,06770,South Dustintown,PA
+14,01863,East Lori,MA
+15,18685,East William,GA
+16,14281,South Timothy,NH
+17,42818,Elizabethshire,CA
+18,90625,Richardsonview,WA
+19,95430,Cruzville,TX
+20,57606,Butlerchester,MT
+21,30168,North Justin,NC
+22,22808,New Pedroshire,MS
+23,12037,Austinmouth,WY
+24,25556,West Sydneymouth,KS
+25,95411,Hillburgh,VT
+26,48850,Vincenthaven,DE
+27,70959,West Rachel,WI
+28,01148,Palmerburgh,SD
+29,90710,West Diana,VT
+30,07381,Stephenberg,NV
+31,34538,Kristenport,VA
+32,06147,Jonesfort,LA
+33,15024,Estesburgh,MO
+34,06792,Davidmouth,VA
+35,40384,Breannafurt,AZ
+36,10336,North Anthonyburgh,MO
+37,35068,North Elizabeth,NY
+38,43666,Villafort,SD
+39,90668,Kathleenbury,NE
+40,80815,East Jessicafurt,DE
+41,50250,Nielsenton,FL
+42,35878,Dannyland,KS
+43,92076,Hinestown,OR
+44,22827,West Daniel,WY
+45,18557,Grayshire,VA
+46,76975,East Johnny,MN
+47,60885,Sheltonbury,TN
+48,16216,Lake Fernando,FL
+49,17053,North Brandi,IA
+50,42356,East Arthurberg,NJ
+51,19899,West Kimshire,KS
+52,99202,West Jacobhaven,MA
+53,77064,Leeborough,UT
+54,54672,Masonstad,NH
+55,83981,Port Carlos,VT
+56,59061,Garrettland,WV
+57,88087,East Kimberlyport,WV
+58,16540,North Victorton,MA
+59,68889,Andrewport,UT
+60,69653,Peterstad,MA
+61,32026,Port Monicaport,NV
+62,76245,New Barbarahaven,KS
+63,63143,Reginaldton,KY
+64,87174,New Thomasview,AZ
+65,64739,North Matthewview,DC
+66,37272,West Pamela,NC
+67,42694,East Jamesmouth,AK
+68,96296,East Trevorshire,MN
+69,63770,West Tinachester,MN
+70,30101,New Timothyberg,LA
+71,12533,Jenniferville,VT
+72,35079,South Williamstad,OK
+73,39329,Woodsbury,ME
+74,93743,North Anthonyborough,VT
+75,11353,Flemingtown,TX
+76,46770,Williamsfurt,FL
+77,73706,South Jacqueline,UT
+78,32269,North Samuel,FL
+79,86940,Michaelmouth,LA
+80,85322,Hullbury,MS
+81,96874,North Brianna,SC
+82,27487,South Julie,AK
+83,91591,Port Alexisbury,IL
+84,10726,North Brianmouth,ME
+85,10350,West Bradley,OR
+86,65329,Carriebury,KS
+87,08400,Davidfurt,VA
+88,28350,Sandovalland,WA
+89,02221,West Shawnaborough,NC
+90,88384,Thorntonstad,NJ
+91,28830,South Jennifer,GA
+92,61862,Kimberlyport,SD
+93,50971,New Patricia,OR
+94,25131,Heidihaven,NY
+95,64417,North Michaelchester,NC
+96,14202,Ramirezborough,MS
+97,45124,Port Theresa,NM
+98,27850,West Judy,GA
+99,77902,North Nathan,NC
+100,69660,North Tiffany,HI
+101,67862,Santosmouth,MS
+102,41573,North Victorton,TN
+103,41372,Joshuafurt,MA
+104,93367,Margaretland,ME
+105,60010,West Melissafurt,IN
+106,86391,Smithfurt,KY
+107,20685,Wallacebury,WI
+108,66628,South Jack,WY
+109,14350,Patelport,SD
+110,17548,New Kathryntown,MI
+111,29177,Sandraview,NH
+112,48164,Port Anthony,SC
+113,51039,Glennton,AL
+114,59802,New Paulport,WA
+115,81828,Colemanshire,WY
+116,67801,Franciscofurt,NC
+117,27111,Reesebury,IN
+118,52956,North Juan,ID
+119,25136,Christopherbury,TN
+120,09497,Matthewfurt,MO
+121,36917,New Joshuaview,CT
+122,55956,Kimberlytown,NY
+123,22022,West Ashleymouth,KY
+124,90451,Melaniemouth,ND
+125,40759,Smithtown,WA
+126,76161,Johnsonstad,CO
+127,85485,Littleside,AR
+128,13878,South Brian,OK
+129,19806,West Pennyside,IA
+130,60919,Stephaniemouth,KS
+131,14548,West Katie,WA
+132,98153,Jordanfort,UT
+133,14945,East Crystal,IA
+134,32032,Port Christine,UT
+135,02675,East Dannyton,NH
+136,60905,Lake William,AZ
+137,25015,Rileyton,KY
+138,35465,North Stephanie,KY
+139,04247,Theresatown,WA
+140,62922,Amberton,VA
+141,87255,West Daniel,CA
+142,70085,Wilsonland,DC
+143,59829,East Mark,ME
+144,46632,Mariachester,IL
+145,35310,Lake Ronaldport,IA
+146,16010,North Mark,WV
+147,72630,Matthewchester,NJ
+148,11519,Thomasport,CT
+149,46956,East Michealport,WY
+150,57055,New Anthony,MD
+151,28296,Port Lawrence,SC
+152,20243,Shelbyfurt,ID
+153,52527,Lake Jessicafurt,DE
+154,66324,North Susanbury,CO
+155,56973,Ryanville,ID
+156,67075,New Thomashaven,ND
+157,44244,Stewartborough,IL
+158,07468,Rhondamouth,NM
+159,58348,Port Katrina,OK
+160,36229,Jerrymouth,OR
+161,48968,Lake Johnchester,DE
+162,13321,Christopherside,NV
+163,06941,West Denisebury,SD
+164,85517,Hartmanbury,OR
+165,50638,New John,SC
+166,96445,Craigberg,WV
+167,55890,Lauramouth,AL
+168,25920,Davidchester,WV
+169,39036,Wagnerberg,PA
+170,25332,Chenborough,NM
+171,53282,South Alexis,HI
+172,23654,South Joseside,NY
+173,78364,Newtonberg,NY
+174,36667,Port Ryanburgh,SD
+175,69911,East Zacharyhaven,KS
+176,80120,Strongstad,ND
+177,65200,South Heidi,MA
+178,68477,Lake Kelly,TX
+179,57329,Phyllismouth,NY
+180,14812,Lake Brandonstad,SC
+181,89782,Lozanomouth,DE
+182,07037,Robertsfort,HI
+183,85218,Lake Isaac,AL
+184,33130,East Paulashire,NY
+185,15060,Emilymouth,NM
+186,29281,Floresburgh,HI
+187,15598,Shirleyville,WV
+188,07465,West Trevor,TX
+189,05178,New Zacharyhaven,CT
+190,75897,Mitchellfurt,NV
+191,35389,Katherineberg,SC
+192,31796,Port Sierraborough,ND
+193,09131,Stoneshire,HI
+194,70248,Coryport,WI
+195,13743,North Keith,WV
+196,36606,Gonzalesburgh,IL
+197,30184,Sheilaview,NY
+198,81794,East Elizabethberg,MD
+199,92187,East Andreahaven,NC
+200,94325,North Carmen,CT
+201,53527,New Amandaborough,ME
+202,51869,South Marissatown,IL
+203,51997,Jamesshire,TX
+204,13779,Dennishaven,MD
+205,29322,Port Shawn,ID
+206,96697,Lake Jasmineville,MO
+207,91161,Onealfort,GA
+208,35663,Christopherberg,GA
+209,65404,Jessicaville,TN
+210,27463,Lindabury,MD
+211,22918,West Ericmouth,NJ
+212,27184,Shawnhaven,PA
+213,46065,Lake Haileyton,MT
+214,83980,Garciahaven,VA
+215,38248,Jamesside,IN
+216,93018,Lake Courtneybury,NJ
+217,78660,New Nicholas,ME
+218,38246,Lake James,FL
+219,96692,Hernandezburgh,MA
+220,00908,Campbellborough,MI
+221,12853,New Mercedesborough,WA
+222,24759,South Carlosside,NV
+223,66461,Lake Gregory,NE
+224,92313,Wattsfurt,MO
+225,82043,Lake Michael,MT
+226,62990,West Mary,WV
+227,97375,Elizabethfort,AR
+228,40520,Harperside,MI
+229,90670,Phillipsbury,DC
+230,31777,Port Kathrynchester,WI
+231,22813,Nguyenchester,AK
+232,41803,East Stevenmouth,VT
+233,89819,West Heidiberg,IL
+234,09604,Larsenfort,VT
+235,22343,Mcdanieltown,LA
+236,25056,Josephborough,MN
+237,44037,Brownmouth,MD
+238,60167,Emilychester,WY
+239,19091,Lambchester,MD
+240,02170,Greenton,OH
+241,87799,Toddbury,ID
+242,62707,Daisyton,IL
+243,56589,Sethbury,NY
+244,44286,New Jamie,KY
+245,03230,New Cherylberg,CA
+246,23768,Lake Andrewfurt,GA
+247,35082,Port Janetstad,VA
+248,10590,Lake Brandonborough,VA
+249,22878,Amandaburgh,NJ
+250,89525,Heathbury,WI
+251,01776,Lauriestad,MS
+252,78358,Robertside,VT
+253,46657,North Barry,IA
+254,62606,Port Shelbyville,PA
+255,76936,Moodyton,MS
+256,00632,West Kevin,CT
+257,64504,Lake Kelsey,SC
+258,32942,North Joseph,KY
+259,62441,Port Kristenfurt,MN
+260,14838,Port Joy,LA
+261,06422,Michelleland,NJ
+262,02780,New Jenniferchester,WA
+263,74853,North Juliaside,MD
+264,89636,North Jill,VA
+265,38598,Leeport,FL
+266,30423,Ronaldtown,FL
+267,69349,Joshuaborough,ME
+268,66449,West Tanyashire,ID
+269,22429,Bennettchester,CO
+270,99459,East Tammyside,IA
+271,19713,Timothyside,OK
+272,12809,South Andre,WV
+273,13607,Lunastad,KS
+274,40425,South Jeffreytown,NC
+275,96994,Wisemouth,LA
+276,44498,Thomasville,AK
+277,59826,Martinland,WI
+278,64813,New Garyfort,CA
+279,96814,North Donald,WY
+280,46478,Millsshire,VT
+281,72028,North Katrina,MD
+282,34231,Robertmouth,MN
+283,87455,North Marc,WI
+284,64266,Savageview,WA
+285,33732,Port Anna,IL
+286,48249,Gardnermouth,MD
+287,60630,West Steven,IN
+288,02278,Robertsonland,MN
+289,46720,South Hollyfurt,ID
+290,39971,Port Alexander,VT
+291,93582,East Jamesville,KS
+292,44244,South Tylerhaven,WA
+293,68374,Taylorside,DC
+294,87524,Rossport,SD
+295,78586,South Wendyview,NE
+296,63986,Christinastad,NM
+297,15280,East Kelly,AR
+298,35882,Port Christina,NC
+299,90388,Aprilview,NY
+300,68567,Fordmouth,AK
+301,95949,East Alice,NE
+302,84360,Smithchester,NY
+303,03217,East Thomas,MD
+304,19886,West Jacquelineborough,ND
+305,54282,New Stephenville,LA
+306,29370,New Taylorburgh,MA
+307,86925,West Danabury,CA
+308,19065,Courtneyborough,CA
+309,47319,Justinchester,CO
+310,65752,Michaelfurt,WI
+311,04551,Annborough,ND
+312,32530,New Elijahborough,NY
+313,76206,Gregoryshire,CO
+314,97626,East Laurashire,NH
+315,91701,Riverashire,SD
+316,56956,Tammyfort,WV
+317,47610,East Aaron,WI
+318,27542,East Christopher,NE
+319,98066,East Fred,KY
+320,12202,West Christianton,NV
+321,25908,New Lindsay,WA
+322,50017,Ortegamouth,SD
+323,84221,Vincentville,CA
+324,14647,New Phillip,SD
+325,36404,Mccarthystad,MA
+326,82668,Marymouth,NC
+327,89472,New Meganburgh,UT
+328,71924,Jenniferchester,NE
+329,59387,Henryview,AK
+330,69563,New Rachelstad,OK
+331,23432,North Michelle,AL
+332,35275,Townsendstad,MS
+333,89507,Lewisside,AL
+334,46224,South Neil,MD
+335,43911,East Scotthaven,FL
+336,51753,North Brenda,IN
+337,77721,Clintonstad,TX
+338,55196,Wesleytown,MD
+339,36709,Arthurview,NH
+340,41044,Sandersview,TN
+341,25479,Colleenshire,WI
+342,05888,Port Jenniferfort,OK
+343,76459,Henryfort,VT
+344,68668,North Mikeberg,OK
+345,92492,Port Melissa,ID
+346,45494,South Maryville,FL
+347,80765,South Danaton,ME
+348,16617,Connorside,CT
+349,57315,Tonyaborough,ND
+350,60142,West Marymouth,AZ
+351,74774,New Jennifer,DC
+352,45982,Zacharyfurt,MI
+353,38303,Monroeton,MD
+354,14943,East Mandyhaven,MD
+355,01593,Lake Joseph,TN
+356,65896,South Bradley,ID
+357,90354,Lake William,GA
+358,19785,Lake Julie,KY
+359,61622,West Joshuastad,IL
+360,89750,West Stevenland,MI
+361,20191,Davisland,DC
+362,69076,Lake Christopher,NV
+363,38483,Brittanytown,MS
+364,82263,Port Alex,NV
+365,73657,Stevenbury,WA
+366,87574,Maryborough,WA
+367,21814,West Brian,MS
+368,40300,Gregoryberg,NV
+369,64310,Robertborough,MO
+370,38283,Nicoleburgh,IL
+371,08970,Jordanmouth,MS
+372,39131,Christopherstad,DE
+373,02544,Michaelhaven,HI
+374,59989,Gallegosburgh,OR
+375,05868,Port Brendaberg,NC
+376,28986,Lake Ryan,GA
+377,37596,Jaredhaven,IL
+378,78236,Christopherborough,NM
+379,16679,Jefferyview,PA
+380,07473,North Zacharyburgh,WA
+381,64512,Taylorshire,MT
+382,40585,Nathanfurt,IL
+383,01168,West Jacquelinestad,NY
+384,56904,East Robertmouth,NJ
+385,46671,Deborahville,NY
+386,87041,West Kevin,NH
+387,00585,Paynetown,AL
+388,07041,Lambmouth,MT
+389,33456,Simonfort,CT
+390,18552,West Jennifer,MN
+391,46404,Timothyfurt,CA
+392,37629,Billybury,SD
+393,66298,South Ronaldview,IN
+394,87706,Watkinsburgh,CO
+395,73999,West Olivia,SD
+396,20822,New Karen,MS
+397,11773,Lake Mason,NJ
+398,93981,North Kyleberg,KY
+399,35978,Stephenburgh,SD
+400,19197,Smithberg,MD
+401,96583,East Kevin,FL
+402,26286,East Joelborough,IA
+403,57130,Davisbury,OK
+404,77207,Lake Angela,DC
+405,11080,Adamburgh,FL
+406,38617,Coryside,UT
+407,29187,Halefort,WV
+408,04713,Guerrabury,AR
+409,62521,South Davidberg,IL
+410,46983,Mejiaport,WA
+411,33102,Carlsonside,LA
+412,89433,West Tracyshire,RI
+413,83999,East Nicoleburgh,GA
+414,51126,West Michael,HI
+415,55887,New Carolfurt,NC
+416,52813,Lake Jerryfort,WA
+417,13364,North Jason,TN
+418,34744,Davisfurt,MN
+419,40087,South Edward,DE
+420,78756,Paulfort,GA
+421,41229,West Susanchester,NM
+422,23216,East Raymond,ME
+423,74413,South Lindastad,SC
+424,57624,Lake Michelletown,KS
+425,89488,West David,MD
+426,42769,Parkstown,WY
+427,76282,Valdezfurt,MA
+428,18743,Wiseport,NJ
+429,90065,Greenville,WA
+430,26650,Shawfort,FL
+431,33271,Meganstad,MT
+432,18286,Port Haroldchester,ND
+433,55067,Bergland,WV
+434,73152,North Matthew,VA
+435,26652,Jamesmouth,GA
+436,39961,Williamsport,CT
+437,40477,North Mirandamouth,MI
+438,11720,Brendanstad,IN
+439,39473,Ronaldport,MT
+440,74774,New Josephport,DE
+441,82856,Robertmouth,NH
+442,60945,Kennethton,ND
+443,72044,West Jessicaside,DC
+444,24535,Wrightland,PA
+445,49779,East Jessicafort,SC
+446,57765,Orozcostad,ME
+447,13089,Barkerbury,NJ
+448,18668,Williamsmouth,KS
+449,69519,Benjaminville,MD
+450,58421,Huntland,ND
+451,91482,Saraport,RI
+452,41560,Moralesburgh,VT
+453,66537,Jenniferland,NJ
+454,90306,Sanfordborough,WA
+455,93902,Wandahaven,OK
+456,47366,Lake Lauren,DC
+457,61892,Ashleyborough,NY
+458,46925,Hillburgh,FL
+459,56556,Walterton,TN
+460,61652,Browningport,WA
+461,55617,Adamborough,VT
+462,54274,Port Robertberg,LA
+463,60962,Josephmouth,RI
+464,04128,East Jeffreymouth,IA
+465,73758,North Cheryl,KS
+466,03964,Matthewsmouth,VA
+467,55671,Alvarezside,ME
+468,12091,West Matthewstad,VT
+469,99572,Hernandezfort,TN
+470,18927,New Heidi,NC
+471,81137,Scottton,OK
+472,40135,Lake Tommystad,KY
+473,32305,East Juliehaven,DC
+474,76565,Kevinmouth,NE
+475,67636,Craigtown,TN
+476,49405,New Brenda,OR
+477,17183,Annettechester,AZ
+478,81882,Port Teresaside,MS
+479,71708,Fritzfurt,AR
+480,74631,South Catherine,ID
+481,38950,North Randyborough,AL
+482,07518,New Keithburgh,SC
+483,99504,Piercestad,WY
+484,51967,South Rachel,GA
+485,17007,Luisstad,MD
+486,53315,Lake Nicolemouth,OK
+487,88329,Perezfurt,NJ
+488,01281,Shermanport,MI
+489,61162,Mooreburgh,SC
+490,68397,Robertsside,OK
+491,60823,Kathrynburgh,NV
+492,07624,South Bettychester,NH
+493,11597,Jenkinstown,KS
+494,07669,East Chelsea,NV
+495,35913,New Ashleychester,WA
+496,85682,West Chelseaburgh,SD
+497,14532,Cohenstad,NY
+498,44211,Lake Carolynfurt,MA
+499,78402,Port Robin,HI
+500,13267,Woodbury,MA
