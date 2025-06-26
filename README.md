@@ -46,50 +46,53 @@ Build a realistic relational database with customer, order, product, and seller 
 
 ---
 
-## 🧩 Schema Design (ER Model)
+# E-Commerce Sales Analysis using SQL
 
-customers (customer_id) ───< orders (customer_id)
-products (product_id) ───< orders (product_id)
-sellers (zip_code) ───
-customers (zip_code) ─┬──> geolocation (zip_code)
-sellers (zip_code) ─┘
+This project simulates an e-commerce sales environment with 10,000 synthetic records. It includes customers, orders, products, sellers, and geolocation data, all analyzed using SQL queries.
 
----
+## Schema Design (ER Model)
 
-## 📊 SQL Query Topics
+customers (customer_id) --> orders (customer_id)  
+products  (product_id)  --> orders (product_id)  
+sellers   (zip_code)    -->  
+customers (zip_code)    --> geolocation (zip_code)  
+sellers   (zip_code)    --> geolocation (zip_code)
 
-### ✅ Easy
-- **Customers by State**
-- **Order Status Count**
-- **Unique Products Sold**
-- **Products by Category**
+## SQL Query Topics
 
-### ⚙️ Medium
-- **Top States by Customers**
-- **Average Delivery Time**
-- **Monthly Order Count**
+### Easy
+- Customers by State
+- Order Status Count
+- Unique Products Sold
+- Products by Category
 
-### 🔍 Hard
-- **Top Ordering Customer**
-- **Cancellation Rate by Category**
-- **On-Time vs Delayed Orders**
+### Medium
+- Top States by Customers
+- Average Delivery Time
+- Monthly Order Count
 
----
+### Hard
+- Top Ordering Customer
+- Cancellation Rate by Category
+- On-Time vs Delayed Orders
 
-## 💻 Tools Used
+## Tools Used
 
-- **Python (Faker)** for data generation  
-- **MySQL Workbench** for schema and queries  
-- **SQL** for querying, aggregating, and analyzing  
-- **PDF and CSV** formats for reporting and uploads
+- Python (Faker) for data generation  
+- MySQL Workbench for creating schema and running queries  
+- SQL for querying and analysis  
+- CSV and PDF formats for outputs
 
----
+## Files Included
 
-## 📁 Files Included
+- customers.csv  
+- orders.csv  
+- products.csv  
+- sellers.csv  
+- geolocation.csv  
+- E-Commerce Sales.pdf (project summary)
 
-- `customers.csv`  
-- `orders.csv`  
-- `products.csv`  
-- `sellers.csv`  
-- `geolocation.csv`  
-- `E-Commerce Sales.pdf` — slide-style summary
+## Author
+
+Vanshika Mahajan  
+MSc Data Science
