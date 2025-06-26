@@ -52,11 +52,11 @@ This project simulates an e-commerce sales environment with 10,000 synthetic rec
 
 ## Schema Design (ER Model)
 
-customers (customer_id) --> orders (customer_id)  
-products  (product_id)  --> orders (product_id)  
-sellers   (zip_code)    -->  
-customers (zip_code)    --> geolocation (zip_code)  
-sellers   (zip_code)    --> geolocation (zip_code)
+customers (customer_id) ───< orders (customer_id)
+products  (product_id)  ───< orders (product_id)
+sellers   (zip_code)    ───
+customers (zip_code)    ─┬──> geolocation (zip_code)
+sellers   (zip_code)    ─┘
 
 ## SQL Query Topics
 
