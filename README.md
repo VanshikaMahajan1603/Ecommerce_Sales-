@@ -48,12 +48,13 @@ Build a realistic relational database with customer, order, product, and seller 
 
 ## 🧩 Schema Design (ER Model)
 
-```text
 customers (customer_id) ───< orders (customer_id)
-products  (product_id)  ───< orders (product_id)
-sellers   (zip_code)    ───
-customers (zip_code)    ─┬──> geolocation (zip_code)
-sellers   (zip_code)    ─┘
+products (product_id) ───< orders (product_id)
+sellers (zip_code) ───
+customers (zip_code) ─┬──> geolocation (zip_code)
+sellers (zip_code) ─┘
+
+---
 
 ## 📊 SQL Query Topics
 
