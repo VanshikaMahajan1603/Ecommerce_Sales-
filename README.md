@@ -55,48 +55,40 @@ sellers   (zip_code)    ───
 customers (zip_code)    ─┬──> geolocation (zip_code)
 sellers   (zip_code)    ─┘
 
-📊** SQL Query Topics**
-✅ Easy
-Customers by State
+## 📊 SQL Query Topics
 
-Order Status Count
+### ✅ Easy
+- **Customers by State**
+- **Order Status Count**
+- **Unique Products Sold**
+- **Products by Category**
 
-Unique Products Sold
+### ⚙️ Medium
+- **Top States by Customers**
+- **Average Delivery Time**
+- **Monthly Order Count**
 
-Products by Category
+### 🔍 Hard
+- **Top Ordering Customer**
+- **Cancellation Rate by Category**
+- **On-Time vs Delayed Orders**
 
-⚙️ Medium
-Top States by Customers
+---
 
-Average Delivery Time
+## 💻 Tools Used
 
-Monthly Order Count
+- **Python (Faker)** for data generation  
+- **MySQL Workbench** for schema and queries  
+- **SQL** for querying, aggregating, and analyzing  
+- **PDF and CSV** formats for reporting and uploads
 
-🔍 Hard
-Top Ordering Customer
+---
 
-Cancellation Rate by Category
+## 📁 Files Included
 
-On-Time vs Delayed Orders
-
-💻 Tools Used
-Python (Faker) for data generation
-
-MySQL Workbench for schema and queries
-
-SQL for querying, aggregating, and analyzing
-
-PDF and CSV formats for reporting and uploads
-
-##📁 Files Included
-customers.csv
-
-orders.csv
-
-products.csv
-
-sellers.csv
-
-geolocation.csv
-
-E-Commerce Sales.pdf — slide-style summary
+- `customers.csv`  
+- `orders.csv`  
+- `products.csv`  
+- `sellers.csv`  
+- `geolocation.csv`  
+- `E-Commerce Sales.pdf` — slide-style summary
